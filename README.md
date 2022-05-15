@@ -2,7 +2,10 @@
 I am a _Computer Science_ major at **Tennessee Tech University**.  
 
 - I'm currently learning:
-	* TensorFlow 
+	* TensorFlow
+	* React.js
+	* MySQL
+	* Spring Boot 
 
 ## How to reach me
 **Email**: jamesdgrant.grant@gmail.com
