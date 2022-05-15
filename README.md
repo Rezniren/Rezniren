@@ -9,6 +9,7 @@ I am a _Computer Science_ major at **Tennessee Tech University**.
 
 ## How to reach me
 **Email**: jamesdgrant.grant@gmail.com
+
 **LinkedIn**: www.linkedin.com/in/james-grant-54b8b2104
 <!--
 **Rezniren/Rezniren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
